@@ -2,4 +2,9 @@ git init für den start // for initializing repository
 git add <file>
 git commit -m "your commit message"
 git reset --soft HEAD~1
+<<<<<<< HEAD
 git reset --hart HEAD~1
+=======
+
+haha banana
+>>>>>>> d66326df8ecd86754b0899ca4dddac1a7d9efe1b
