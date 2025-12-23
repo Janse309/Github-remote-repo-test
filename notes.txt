@@ -8,3 +8,5 @@ git clone GitHub-URL
 git remote add origin https://github.com/Janse309/uhuhallo.git
 git branch -M main
 git push -u origin main
+
+git clone GitHub-URL .
