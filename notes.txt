@@ -13,3 +13,4 @@ git clone GitHub-URL .
 
 
 
+PAT (all repositorys, contents -> read and write)
