@@ -10,3 +10,7 @@ git branch -M main
 git push -u origin main
 
 git clone GitHub-URL .
+
+
+
+PAT (all repositorys, contents -> read and write)
