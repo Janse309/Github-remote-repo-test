@@ -5,7 +5,7 @@ git reset --soft HEAD~1
 git reset --hard HEAD~1
 git clone GitHub-URL
 
-git remote add origin https://github.com/Janse309/uhuhallo.git
+git remote add origin https://github.com/Janse309/aufbauUebungen.git
 git branch -M main
 git push -u origin main
 
